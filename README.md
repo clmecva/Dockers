@@ -1,7 +1,6 @@
 **Docker**
 
-An open-source platform that automates the deployment, scaling, and management of applications using containerization technology.
-Allows developers to package applications and dependencies into standardized units called containers.
+An open-source platform that automates the deployment, scaling, and management of applications using containerization technology. Allows developers to package applications and dependencies into standardized units called containers. Containers run consistently across different environments (development, testing, production).
 
 
 **Docker Architecture**
